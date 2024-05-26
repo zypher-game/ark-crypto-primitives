@@ -1,5 +1,5 @@
 [package]
-name = "ark-crypto-primitives-macros"
+name = "ark-crypto-primitives-macros-zypher"
 description.workspace = true
 documentation.workspace = true
 version.workspace = true
@@ -10,7 +10,7 @@ categories.workspace = true
 include.workspace = true
 license.workspace = true
 edition.workspace = true
-publish = false
+publish = true
 
 [dependencies]
 quote = { version = "1.0" }
